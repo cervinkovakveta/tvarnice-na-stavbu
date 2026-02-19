@@ -6,8 +6,6 @@ A zobrazí pobočky, které mají potřebné množství tvárnic na skladě.
 
 Identifikační údaje o autorovi projektu:
     Jméno a příjmení: Květoslava Červinková
-    tel.: 739 623 999
-    e-mail: cervinkova.kveta@seznam.cz
 
 Přihlašovací údaje:
     Uživatelské jméno: stavebnik
@@ -120,3 +118,4 @@ for mesto, material, pocet_ks in pobocky:
       print(f"| {mesto:8} | {material:14} | {pocet_ks:<22} |")
 
 print()
+
